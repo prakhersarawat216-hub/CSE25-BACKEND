@@ -9,12 +9,25 @@
 //Asynchronous Javascript
 //arrow function
 //variable:var,let and const
-//Syntax : () => {}
-    const hello=() => {
-        console.log("asynch function");
-        setTimeout(() => {
-            console.log("A");
-        }, 2000);
-    }
-    hello();
-    console.log("B");
+// //Syntax : () => {}
+//     const hello=() => {
+//         console.log("asynch function");
+//         setTimeout(() => {
+//             console.log("A");
+//         }, 2000);
+//     }
+//     hello();
+//     console.log("B");
+//function as  parameter argument
+// function hello(n1,n2) {
+//     console.log(n1+n2);
+//     console.log(arguments);
+// }
+// let a= 10;
+// let b= 20;
+// hello(a,b);
+const app = () => {
+    console.log("arguments");
+    console.log(window);
+}
+app();
