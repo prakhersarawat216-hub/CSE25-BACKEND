@@ -1,0 +1,24 @@
+{
+  "name": "backend-cse25",
+  "version": "1.0.0",
+  "description": "backend project",
+  "keywords": [
+    "backend",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/prakhersarawat216-hub/CSE25-BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/prakhersarawat216-hub/CSE25-BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakhersarawat216-hub/CSE25-BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "Prakher sarawat",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
