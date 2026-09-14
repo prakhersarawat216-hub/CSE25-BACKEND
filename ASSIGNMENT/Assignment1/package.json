@@ -1,0 +1,9 @@
+{
+  "name": "student-records",
+  "version": "1.0.0",
+  "description": "Student record manager using Node.js built-in http and fs modules",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

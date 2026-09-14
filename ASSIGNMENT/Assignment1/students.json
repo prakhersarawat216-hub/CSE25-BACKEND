@@ -1,0 +1,26 @@
+[
+  {
+    "name": "priyanshu",
+    "rollNumber": "1234",
+    "course": "b.tech",
+    "email": "abc@gmail.com"
+  },
+  {
+    "name": "prakher",
+    "rollNumber": "1235",
+    "course": "b.tech",
+    "email": "xyz@gmail.com"
+  },
+  {
+    "name": "risha",
+    "rollNumber": "1236",
+    "course": "b.tech",
+    "email": "mno@gmail.com"
+  },
+  {
+    "name": "kunnu",
+    "rollNumber": "2024",
+    "course": "b.tech",
+    "email": "ach@gmail.com"
+  }
+]
