@@ -74,6 +74,8 @@ function formPage(message = '') {
   </form>
   <p><a href="/students">View all student records</a></p>
 </section>`);
+
+
 }
 
 function studentsPage() {
